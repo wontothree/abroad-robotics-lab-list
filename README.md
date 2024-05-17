@@ -1,4 +1,4 @@
-# Abroad Laboratory List for Applying Graduate School
+# Abroad Robotics Laboratory List for Applying Graduate School
 
 ## Europe
 
