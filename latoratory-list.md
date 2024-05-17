@@ -11,3 +11,4 @@
 |Univerity|Laboratory|Region|Professor|Field|Web|
 |---|---|---|---|---|---|
 |Stanford|Stanford Intelligent Systems Laboratory|California/USA|Mykel Kochenderfer||https://sisl.stanford.edu/|
+|University of Illinois at Urbana-Champaign||Illinois/USA|Maxim Raginsky|probability and stochastic processes, deterministic and stochastic control, machine learning, optimization, and information theory|https://maxim.ece.illinois.edu/
